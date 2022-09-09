@@ -20,7 +20,7 @@ class Activity {
       id: '1',
       title: 'Cruise and Snorkel the Amalfi Coast',
       description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi consequat quis nunc in ultrices. Nullam feugiat in massa vitae placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam sem urna, venenatis vitae orci vitae, faucibus volutpat urna.',
+          'This spectacular region of Italy is famous for lemon trees, olive groves, vineyards and tiny villages – all clinging to the jagged cliffs that plunge straight into the sea below. It’s listed by UNESCO as a World Heritage Site, and with good reason.',
       imageUrl:
           'https://images.unsplash.com/photo-1564671546498-09a366692274?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80',
       price: 39.99,
@@ -50,7 +50,7 @@ class Activity {
       id: '4',
       title: 'Kayak along the Beach and the Grotto',
       description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi consequat quis nunc in ultrices. Nullam feugiat in massa vitae placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam sem urna, venenatis vitae orci vitae, faucibus volutpat urna.',
+          'The Blue Grotto is a natural sea cave, 60 meters long and 25 meters wide . The cave mouth is two meters wide but only roughly a meter high. The skipper will have you lay back along the bottom of the boat while he guides you through the opening using a metal chain attached to the cave walls.',
       imageUrl:
           'https://images.unsplash.com/photo-1548678967-f1aec58f6fb2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3432&q=80',
       price: 39.99,

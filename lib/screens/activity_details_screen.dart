@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
-import '../widgets/clipped_container.dart';
 
 import '../models/activity_model.dart';
+import '../widgets/clipped_container.dart';
 
 class ActivityDetailsScreen extends StatelessWidget {
   const ActivityDetailsScreen({
@@ -60,7 +60,7 @@ class _ActivityInformation extends StatelessWidget {
         padding: const EdgeInsets.only(
           left: 20,
           right: 20,
-          bottom: 40,
+          bottom: 30,
         ),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
