@@ -3,4 +3,4 @@
 Discover the best attractions Italy has to offer
 
 ## App Showcase
-![Travel App Board](https://user-images.githubusercontent.com/60574717/189408567-3f4c2244-b1e9-4bde-a3ab-e0a647db0a6f.jpg)
+![Travel App Board](https://user-images.githubusercontent.com/60574717/189409039-f3237f83-6076-4874-a8bb-c81592b6705b.jpg)
