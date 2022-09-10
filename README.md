@@ -1,4 +1,4 @@
-# italy_travel_app
+# Italy Travel App
 
 Discover the best attractions Italy has to offer
 
